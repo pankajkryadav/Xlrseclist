@@ -1,4 +1,4 @@
-# 🗂️ Bug Hunting Wordlists
+# 🗂️ Injection Wordlists
 
 This repository is a curated collection of wordlists and payloads for various types of security testing, specifically tailored for bug bounty hunters and security researchers.
 
